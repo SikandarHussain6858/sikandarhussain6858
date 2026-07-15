@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 About Me<br><br>🔭 AI Engineer focused on **LLMs, AI Agents & Automation**<br><br>🌍 Building scalable **Full Stack AI Applications**<br><br>📚 Currently exploring **MCP, LangGraph, Vector Databases, and AI Infrastructure**<br><br>💼 Interested in **Generative AI, SaaS, and Startup Development**<br><br>🤝 Open to collaborating on **Open Source & AI Projects**<br><br>💬 Ask me about **Python • FastAPI • Next.js • LangChain • RAG • n8n • Prompt Engineering**<br><br>⚡ Goal: Build products that solve real-world problems using AI.
+<br><br>🔭 AI Engineer focused on **LLMs, AI Agents & Automation**<br><br>🌍 Building scalable **Full Stack AI Applications**<br><br>📚 Currently exploring **MCP, LangGraph, Vector Databases, and AI Infrastructure**<br><br>💼 Interested in **Generative AI, SaaS, and Startup Development**<br><br>🤝 Open to collaborating on **Open Source & AI Projects**<br><br>💬 Ask me about **Python • FastAPI • Next.js • LangChain • RAG • n8n • Prompt Engineering**<br><br>⚡ Goal: Build products that solve real-world problems using AI.
 
 
 ## 🌐 Socials:
